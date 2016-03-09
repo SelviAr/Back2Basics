@@ -5,5 +5,6 @@
 
 
 ## Reponsive 
-* [Check the responsive design page in diffrent screen](http://responsiv.eu/)
-
+###  Test responsive web design in various resolutions.
+* [responsiv.eu](http://responsiv.eu/)
+* [http://responsivetest.net/](http://responsivetest.net/)
