@@ -33,10 +33,9 @@
 
 ### Standards Testing
 
-* [css-validator](http://jigsaw.w3.org/css-validator/)
+* [CSS Validator](http://jigsaw.w3.org/css-validator/)
 * [HTML Validator](http://validator.w3.org/)
 * [HTML5 Validator](https://html5.validator.nu/)
-
 * [Link Checker](http://validator.w3.org/checklink)
 
 ## Framework
@@ -48,13 +47,11 @@
 * [pagespeed](https://www.iispeed.com/pagespeed/test)
 
 ## Practice Website
-* http://the-internet.herokuapp.com/
-* http://demoqa.com/
-* http://bdonline.sqe.com/
-* http://newtours.demoaut.com/
-* http://adam.goucher.ca/parkcalc/
-
-
-http://www.infoq.com/news/2010/05/testing_challenge
-https://testingdisciple.wordpress.com/2010/07/19/my-solutions-for-parkcalc-exercise/
+* [The Internet](http://the-internet.herokuapp.com/)
+* [Demoqa](http://demoqa.com/)
+* [dbonline](http://bdonline.sqe.com/)
+* [New Tours](http://newtours.demoaut.com/)
+* [Parking Calculator](http://adam.goucher.ca/parkcalc/)
+  *[Read on Parking Calculator](http://www.infoq.com/news/2010/05/testing_challenge)
+  *[Read on Parking Calculator](https://testingdisciple.wordpress.com/2010/07/19/my-solutions-for-parkcalc-exercise/)
 
