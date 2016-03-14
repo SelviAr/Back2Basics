@@ -40,6 +40,8 @@
 
 ## Framework
 * [Web Application Security Scanner Framework](http://www.arachni-scanner.com/)
+* [Christian Bromann Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
+* [Selenium Maven Seed Project](https://github.com/SelviAr/Selenium2-Java-QuickStart-Archetype)
 
 
 ## Performence Testing
