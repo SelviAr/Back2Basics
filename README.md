@@ -59,3 +59,7 @@
   *[Read on Parking Calculator](http://www.infoq.com/news/2010/05/testing_challenge)
   *[Read on Parking Calculator](https://testingdisciple.wordpress.com/2010/07/19/my-solutions-for-parkcalc-exercise/)
 
+
+## Good Links
+* [Waiting for a Redirect Chain to Settle](https://objectpartners.com/2015/06/04/waiting-for-a-redirect-chain-to-settle-using-selenium-webdriver/)
+
