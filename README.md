@@ -78,34 +78,38 @@
 
 
 
-### Cross Browser Testing
+### Tools for Cross Browser Testing
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 * [browsershots](http://browsershots.org)
 
 
-## Reponsive Design Testing
-
-###  Test responsive web design in various resolutions.
+### Tools for Reponsive Design Testing
+Test responsive web design in various resolutions.
 * [responsiv.eu](http://responsiv.eu/)
 * [responsivetest.net](http://responsivetest.net/)
 
-### Standards Testing
+### Tools for Standards Testing
 
 * [CSS Validator](http://jigsaw.w3.org/css-validator/)
 * [HTML Validator](http://validator.w3.org/)
 * [HTML5 Validator](https://html5.validator.nu/)
 * [Link Checker](http://validator.w3.org/checklink)
 
+### Tools for Automated Testing
+* [Automated Testing](http://www.capterra.com/automated-testing-software/)
+
+### Tools for Performence Testing
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [pagespeed](https://www.iispeed.com/pagespeed/test)
+* [Awesome Chrome Devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+ 
 ## Framework
 * [Web Application Security Scanner Framework](http://www.arachni-scanner.com/)
 * [Christian Bromann Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 * [Selenium Maven Seed Project](https://github.com/SelviAr/Selenium2-Java-QuickStart-Archetype)
 
 
-## Performence Testing
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* [pagespeed](https://www.iispeed.com/pagespeed/test)
-* [Awesome Chrome Devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
 ## Practice Website
 * [The Internet](http://the-internet.herokuapp.com/)
