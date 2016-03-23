@@ -1,5 +1,12 @@
-# Back2Basics
 
+# Selvi's Awesomelist for testers
+
+## Table of Content
+
+## Introduction
+* [Software Testing Map](http://thetestingmap.org/)
+* 
+## Back2Basics
 * [Basic CSS Selector Syntax Explained Using Cats](https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats)
 * [Airbnb Javascipt](https://github.com/airbnb/javascript)
 
@@ -99,7 +106,13 @@
 ## Good Links
 * [softwareqatest.com](http://www.softwareqatest.com/)
 * [softwaretestinghelp.com](http://www.softwaretestinghelp.com/)
-* [www.softwaretestingclub.com](http://www.softwaretestingclub.com/)
+* [softwaretestingclub.com](http://www.softwaretestingclub.com/)
+* [sqaforums.com](http://www.sqaforums.com)
+* [testrepublic.com](http://www.testrepublic.com)
+* [testhuddle.com](https://testhuddle.com/)
+
+## Good Blogs
+* [Top 100 Software Testing Blogs](http://www.testingminded.com/2010/04/top-100-software-testing-blogs.html)
 
 ## Good Article
 * [Waiting for a Redirect Chain to Settle](https://objectpartners.com/2015/06/04/waiting-for-a-redirect-chain-to-settle-using-selenium-webdriver/)
