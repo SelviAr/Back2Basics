@@ -8,22 +8,58 @@
 ## Tools
 
 ### Basic
-* Notepad++
-* Filezilla
-* http://www.mirekw.com/winfreeware/mwsnap.html
-* 
+* [Notepad++](https://notepad-plus-plus.org/)
+* [Filezilla](https://filezilla-project.org/)
+* [Screen snap](http://www.mirekw.com/winfreeware/mwsnap.html) 
+* [Screencast Tools](http://codecondo.com/screencast-tools-for-your-businesses/)
 
 ### Firefox Addons
-* Firebug
-* HTTP Live Headers
-* Web Developer Toolbar
-* User Agent Switcher
-* MeasureIt 
-* Extended Statusbar
+* [Firebug](http://getfirebug.com/)
+* [FirePath](https://addons.mozilla.org/en-us/firefox/addon/firepath/) 
+* [FireShot](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
+* [Firesizer](https://addons.mozilla.org/en-US/firefox/addon/firesizer/)
+* [Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
+* [FireBreak](https://addons.mozilla.org/en-us/firefox/addon/firebreak/)
+* [FireFTP](https://addons.mozilla.org/en-US/firefox/addon/fireftp/)
+* [FireQuery](https://addons.mozilla.org/en-US/firefox/addon/firequery/) 
+* [Http FOX](https://addons.mozilla.org/en-US/firefox/addon/httpfox/)
+* [Pinger](https://addons.mozilla.org/en-US/firefox/addon/pinger/)
+* [HTTP Live Headers](https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/)
+* [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
+* [User Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/)
+* [MeasureIt](https://addons.mozilla.org/en-US/firefox/addon/measureit/) 
+* [Extended Statusbar](https://addons.mozilla.org/en-US/firefox/addon/extended-statusbar/)
+* [SQL Inject Me](https://addons.mozilla.org/en-US/firefox/addon/sql-inject-me/)
+* [Access Me](https://addons.mozilla.org/en-US/firefox/addon/access-me/)
+* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+* [Tamper Data](https://addons.mozilla.org/en-US/firefox/addon/tamper-data/)
+* [ShowIP](https://addons.mozilla.org/en-US/firefox/addon/showip/)
+* [XSS Me](https://addons.mozilla.org/en-US/firefox/addon/xss-me/)
+* [Cookies Manager+](https://addons.mozilla.org/en-us/firefox/addon/cookies-manager-plus/)
+* [HackBar](https://addons.mozilla.org/en-us/firefox/addon/hackbar/)
+* [DOM Inspector](https://addons.mozilla.org/en-us/firefox/addon/dom-inspector-6622/)
+* [Header Spy](https://addons.mozilla.org/en-us/firefox/addon/header-spy/)
+* [View Source Chart](https://addons.mozilla.org/en-us/firefox/addon/view-source-chart/)
+* [Websecurify](https://addons.mozilla.org/en-us/firefox/addon/websecurify/) 
+* [RESTClient, a debugger for RESTful web services](https://addons.mozilla.org/en-us/firefox/addon/restclient/)
+* [REST Easy](https://addons.mozilla.org/en-US/firefox/addon/rest-easy/)
+* [JSONView](https://addons.mozilla.org/en-us/firefox/addon/jsonview/)
+* [Host Spy](https://addons.mozilla.org/en-US/firefox/addon/host-spy/)
+* [View Dependencies](https://addons.mozilla.org/en-US/firefox/addon/view-dependencies/)
+* [Magic-Net Full Online DNS Lookup](https://addons.mozilla.org/en-US/firefox/addon/magic-net-full-online-dns-look/)
+* [UrlParams](https://addons.mozilla.org/en-US/firefox/addon/urlparams/)
+* [DNSQueries.com Toolbar](https://addons.mozilla.org/en-US/firefox/addon/dnsqueriescom-toolbar/)
+* [Advanced Dork](https://addons.mozilla.org/en-us/firefox/addon/advanced-dork/)
+* [Groundspeed](https://addons.mozilla.org/en-US/firefox/addon/groundspeed/)
+* [iMacros – Automate Repetitive Work](https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/)
+* [FoxGuide](https://addons.mozilla.org/en-us/firefox/addon/foxguide/)
+* [Nightly Tester Tools](https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/)
+* [Poster](https://addons.mozilla.org/en-US/firefox/addon/poster/)
+* 
 
 
 ### Cross Browser Testing
-* IETester
+* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 * [browsershots](http://browsershots.org)
 
 
