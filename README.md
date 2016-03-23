@@ -1,5 +1,5 @@
 
-# Selvi's Awesomelist for testers
+# Selvi's Awesome list for testers
 
 ## Table of Content
 - [Introduction](#introduction)
@@ -127,13 +127,16 @@ Test responsive web design in various resolutions.
 * [sqaforums.com](http://www.sqaforums.com)
 * [testrepublic.com](http://www.testrepublic.com)
 * [testhuddle.com](https://testhuddle.com/)
+* [utest.com](http://www.utest.com/)
 
 ## Good Blogs
 * [Top 100 Software Testing Blogs](http://www.testingminded.com/2010/04/top-100-software-testing-blogs.html)
 
 ## Good Article
-* [Waiting for a Redirect Chain to Settle](https://objectpartners.com/2015/06/04/waiting-for-a-redirect-chain-to-settle-using-selenium-webdriver/)
+* [Waiting for a Redirect](https://objectpartners.com/2015/06/04/waiting-for-a-redirect-chain-to-settle-using-selenium-webdriver/)
 
-
-
-
+## Freelance Software Testing Jobs
+* [crowdsourcedtesting.com](https://crowdsourcedtesting.com)
+* [utest.com](https://www.utest.com/)
+* [upwork.com](https://www.upwork.com/o/jobs/browse/skill/manual-testing/)
+* [peopleperhour.com](http://www.peopleperhour.com/freelance/software+testing+expert)
