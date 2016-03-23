@@ -99,4 +99,5 @@
 
 ## Good Links
 * [Waiting for a Redirect Chain to Settle](https://objectpartners.com/2015/06/04/waiting-for-a-redirect-chain-to-settle-using-selenium-webdriver/)
+* [softwareqatest.com](http://www.softwareqatest.com/)
 
