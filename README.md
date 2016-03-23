@@ -55,7 +55,7 @@
 * [FoxGuide](https://addons.mozilla.org/en-us/firefox/addon/foxguide/)
 * [Nightly Tester Tools](https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/)
 * [Poster](https://addons.mozilla.org/en-US/firefox/addon/poster/)
-* 
+
 
 
 ### Cross Browser Testing
@@ -96,8 +96,14 @@
   *[Read on Parking Calculator](http://www.infoq.com/news/2010/05/testing_challenge)
   *[Read on Parking Calculator](https://testingdisciple.wordpress.com/2010/07/19/my-solutions-for-parkcalc-exercise/)
 
-
 ## Good Links
-* [Waiting for a Redirect Chain to Settle](https://objectpartners.com/2015/06/04/waiting-for-a-redirect-chain-to-settle-using-selenium-webdriver/)
 * [softwareqatest.com](http://www.softwareqatest.com/)
+* [softwaretestinghelp.com](http://www.softwaretestinghelp.com/)
+* [www.softwaretestingclub.com](http://www.softwaretestingclub.com/)
+
+## Good Article
+* [Waiting for a Redirect Chain to Settle](https://objectpartners.com/2015/06/04/waiting-for-a-redirect-chain-to-settle-using-selenium-webdriver/)
+
+
+
 
