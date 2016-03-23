@@ -49,6 +49,7 @@
 ## Performence Testing
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [pagespeed](https://www.iispeed.com/pagespeed/test)
+* [Awesome Chrome Devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
 ## Practice Website
 * [The Internet](http://the-internet.herokuapp.com/)
