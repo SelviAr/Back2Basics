@@ -14,6 +14,9 @@
 - [Good Links](#good-links)
 - [Good Blogs](#good-blogs)
 - [Good Article](#good-article)
+- [Selenium](#Selenium)
+- [Selvenium](#Selvenium)
+
 
 
 ## Introduction
@@ -119,6 +122,7 @@ Test responsive web design in various resolutions.
 * [Web Application Security Scanner Framework](http://www.arachni-scanner.com/)
 * [Christian Bromann Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 * [Selenium Maven Seed Project](https://github.com/SelviAr/Selenium2-Java-QuickStart-Archetype)
+* [UI & API Test Framework](http://jaffamonkey.com/uiapi-test-framework-github-repos/)
 
 
 
@@ -151,3 +155,21 @@ Test responsive web design in various resolutions.
 * [utest.com](https://www.utest.com/)
 * [upwork.com](https://www.upwork.com/o/jobs/browse/skill/manual-testing/)
 * [peopleperhour.com](http://www.peopleperhour.com/freelance/software+testing+expert)
+
+
+## Selenium
+
+
+* [ngWebDriver](https://github.com/paul-hammant/ngWebDriver) Why this? [Read this](http://www.assertselenium.com/selenium/selenium-webdriver-for-angularjs-apps/)
+* [Phantomjs](http://www.testingdiaries.com/phantomjs-with-selenium/)
+
+
+https://developers.google.com/web/updates/2016/03/device-mode-v2
+
+http://sauceio.com/index.php/2016/03/3-simple-strategies-to-get-started-with-automation/
+
+
+
+
+## Selvenium
+This is my framework created using Selenium, Java, TestNG.
