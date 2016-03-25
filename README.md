@@ -163,7 +163,7 @@ Test responsive web design in various resolutions.
 * [Tips](https://umaar.com/dev-tips/)
 * [Devtools Snippets](https://bgrins.github.io/devtools-snippets/)
 * [Chrome Devtools DeepDive](https://speakerdeck.com/addyosmani/chrome-devtools-deep-dive)
-
+* [devtoolschallenger.com](http://devtoolschallenger.com/)
 
 ## Selenium
 
