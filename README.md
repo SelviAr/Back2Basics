@@ -22,9 +22,23 @@
 ## Introduction
 * [Software Testing Map](http://thetestingmap.org/)
 
+
+## Scrum
+* [Scrum Cheat Sheet](http://complexitymaze.com/wp-content/uploads/Scrum-cheat-sheet.jpg)
+* [Outsofting Scrum Cheatsheet](http://www.slideshare.net/CollectiveKnowledge/out-softing-scrumcheatsheet)
+* [Synerzip Agile Cheat Sheet](http://www.slideshare.net/jillfrank12/synerzip-agile-cheat-sheet)
+* [Scrum in a nutshell](http://media.agile42.com/content/Scrum_in_a_nutshell.pdf?_ga=1.190111019.1016651968.1458923751)
+* [Competencies of a great Scrum Master](https://drive.google.com/file/d/0B4c1VHZnBnmjUDVWRFFwd2dUZzg/edit)
+* [VSTS Scrum Guide](https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/05/to-scrum-or-to-run-that-is-the-agile-question/)
+
+* [Managing Distributed Teams](https://www.scrumalliance.org/community/articles/2013/july/managing-distributed-teams)
+* [HOW TO SPLIT A USER STORY](http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart.pdf)
+
+
 ## Back2Basics
 * [Basic CSS Selector Syntax Explained Using Cats](https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats)
 * [Airbnb Javascipt](https://github.com/airbnb/javascript)
+
 
 
 
