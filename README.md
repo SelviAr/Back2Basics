@@ -3,6 +3,7 @@
 
 ## Table of Content
 - [Introduction](#introduction)
+- [QABasics](#QABasics)
 - [Back2Basics](#back2basics)
 - [Tools](#tools)
 - [Cross Browser Testing](#cross-browser-testing)
@@ -21,6 +22,9 @@
 
 ## Introduction
 * [Software Testing Map](http://thetestingmap.org/)
+
+## QABasics
+* [Test Cases VS Test Scenarios](http://www.softwaretestingclass.com/what-is-difference-between-test-cases-vs-test-scenarios/)
 
 
 ## Scrum
