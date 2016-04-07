@@ -27,6 +27,9 @@
 * [Test Cases VS Test Scenarios](http://www.softwaretestingclass.com/what-is-difference-between-test-cases-vs-test-scenarios/)
 
 
+* [Defect Density](http://www.softwaretestinghelp.com/defect-density/)
+
+
 ## Scrum
 * [Scrum Cheat Sheet](http://complexitymaze.com/wp-content/uploads/Scrum-cheat-sheet.jpg)
 * [Outsofting Scrum Cheatsheet](http://www.slideshare.net/CollectiveKnowledge/out-softing-scrumcheatsheet)
