@@ -15,8 +15,9 @@
 - [Good Links](#good-links)
 - [Good Blogs](#good-blogs)
 - [Good Article](#good-article)
-- [Selenium](#Selenium)
+- [Certification](#Certification)
 - [Selvenium](#Selvenium)
+- [Best Practices](##Best-Practices)
 
 
 
@@ -197,8 +198,12 @@ https://developers.google.com/web/updates/2016/03/device-mode-v2
 
 http://sauceio.com/index.php/2016/03/3-simple-strategies-to-get-started-with-automation/
 
-
-
-
 ## Selvenium
 This is my framework created using Selenium, Java, TestNG.
+
+
+##Certification
+* [8 Best Software Testing Certifications Based on Your Experience Level](http://www.softwaretestinghelp.com/best-software-testing-certifications/)
+
+##Best Practices
+* [Best Practices for Web Application Testing](https://jackmartin6.wordpress.com/2016/01/29/best-practices-for-web-application-testing/)
