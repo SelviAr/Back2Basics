@@ -210,3 +210,8 @@ This is my framework created using Selenium, Java, TestNG.
 
 ##Interview
 * [For Interview](https://seleniumjava.com/2016/04/12/selenium-webdriver-interview-questions/)
+* [Mobile App Testing Certifications-To do or not to do](http://www.mobileappstesting.com/mobile-app-testing-certifications-to-do-or-not-to-do/)
+* [Excellent Resources on Test Automation](https://thetestersedge.com/2016/04/20/excellent-resources-on-test-automation-and-my-learning-points/)
+
+
+
