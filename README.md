@@ -26,7 +26,7 @@
 
 ## QABasics
 * [Test Cases VS Test Scenarios](http://www.softwaretestingclass.com/what-is-difference-between-test-cases-vs-test-scenarios/)
-
+* [Tester's toolbox](http://awesome-testing.blogspot.com/2016/04/testers-toolbox-alternative-guide.html)
 
 * [Defect Density](http://www.softwaretestinghelp.com/defect-density/)
 
@@ -139,6 +139,8 @@ Test responsive web design in various resolutions.
 * [pagespeed](https://www.iispeed.com/pagespeed/test)
 * [Awesome Chrome Devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
+### Tools for API Testing 
+* [Powerful API Testing Tool](http://www.diwebsity.com/2016/04/21/postman/) 
  
 ## Framework
 * [Web Application Security Scanner Framework](http://www.arachni-scanner.com/)
@@ -214,4 +216,6 @@ This is my framework created using Selenium, Java, TestNG.
 * [Excellent Resources on Test Automation](https://thetestersedge.com/2016/04/20/excellent-resources-on-test-automation-and-my-learning-points/)
 
 
+* [Hard Facts About the ROI of Software Testing](https://dzone.com/articles/hard-facts-about-the-roi-of-software-testing)
+* 
 
