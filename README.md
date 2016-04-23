@@ -219,3 +219,6 @@ This is my framework created using Selenium, Java, TestNG.
 * [Hard Facts About the ROI of Software Testing](https://dzone.com/articles/hard-facts-about-the-roi-of-software-testing)
 * 
 
+##Mobile Performance Testing
+* [Mobile Performance Testing - JSON vs XML](
+http://www.infragistics.com/community/blogs/torrey-betts/archive/2016/04/19/mobile-performance-testing-json-vs-xml.aspx)
